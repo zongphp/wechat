@@ -1,0 +1,20 @@
+{
+  "name": "zongphp/wechat",
+  "description": "微信开发组件",
+  "type": "project",
+  "keywords": [
+    "wechat"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [
+    ],
+    "psr-4": {
+      "zongphp\\wechat\\": "src"
+    }
+  }
+}
